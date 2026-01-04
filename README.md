@@ -1,5 +1,50 @@
-# 💫 About Me:
-I am currently working as Dotnet Full stack Developer With strong knowledge on software Development a Dynamic Product Integration Engineer experienced in software integration, automation, and API development using Java, C#, and RPA tools.<br>Adapt at connecting cross-platform applications, resolving integration challenges, and enhancing system interoperability.<br>Passionate about delivering efficient, scalable, and automation-driven integration solutions for enterprise environments.<br>& i have worked on Java Full stack development and iam currently learning multi Cloud + Devops<br>
+# 💫 About Me
+
+🚀 Java Full Stack Developer | .NET Full Stack Developer | Product Integration Engineer | Automation & Cloud Enthusiast
+
+I’m a results-driven Product Integration Engineer with strong expertise in .NET Full Stack Development and hands-on experience in Java Full Stack, API development, and automation using RPA tools.
+
+I specialize in building scalable, integration-focused solutions by seamlessly connecting cross-platform systems, solving complex integration challenges, and improving system interoperability in enterprise environments.
+
+💡 I’m passionate about:
+
+Designing robust APIs and backend services
+
+Developing automation-driven solutions to improve efficiency
+
+Building clean, maintainable, and scalable applications
+
+Continuously learning and applying modern cloud & DevOps practices
+
+🌱 Currently learning:
+Multi-Cloud (AWS | Azure | GCP) & DevOps – focusing on CI/CD, containerization, and cloud-native architectures.
+
+🎯 My goal:
+To grow as a cloud-native full stack & integration engineer, delivering high-impact solutions that combine development, automation, and cloud technologies.
+
+💫 About Me
+
+🚀 .NET Full Stack Developer | Product Integration Engineer | Automation & Cloud Enthusiast
+
+I’m a results-driven Product Integration Engineer with strong expertise in .NET Full Stack Development and hands-on experience in Java Full Stack, API development, and automation using RPA tools.
+
+I specialize in building scalable, integration-focused solutions by seamlessly connecting cross-platform systems, solving complex integration challenges, and improving system interoperability in enterprise environments.
+
+💡 I’m passionate about:
+
+Designing robust APIs and backend services
+
+Developing automation-driven solutions to improve efficiency
+
+Building clean, maintainable, and scalable applications
+
+Continuously learning and applying modern cloud & DevOps practices
+
+🌱 Currently learning:
+Multi-Cloud (AWS | Azure | GCP) & DevOps – focusing on CI/CD, containerization, and cloud-native architectures.
+
+🎯 My goal:
+To grow as a cloud-native full stack & integration engineer, delivering high-impact solutions that combine development, automation, and cloud technologies.
 
 
 ## 🌐 Socials:
